@@ -6,6 +6,3 @@
    Font: App for Google Training<br>
 </h2
 
-<h1 align="center">
-   ♻️ <a href="#"> DICE ROLLER </a>
-</h1>
