@@ -7,5 +7,5 @@
 </h2
 
 <h1 align="center">
-   ♻️ <a href="#"> ECOLETA </a>
+   ♻️ <a href="#"> DICE ROLLER </a>
 </h1>
