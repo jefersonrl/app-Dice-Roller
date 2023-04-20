@@ -1,7 +1,7 @@
 # Project: Dice Roller<br>
 
-#### Font: App for Google Training<br>
-#### Branchs: 4
+Font: App for Google Training<br>
+Branchs: 4
 
 ## Description
 
