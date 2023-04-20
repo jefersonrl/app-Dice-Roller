@@ -2,7 +2,7 @@
    Project: Dice Roller<br>
 </h1>
 
-<h2>
+<h4>
    Font: App for Google Training<br>
-</h2
+</h4>
 
