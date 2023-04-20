@@ -1,7 +1,5 @@
 <h1>
    Project: Dice Roller<br>
-   Font: App for Google Training<br>
-   Branches: 4<br>
 </h1>
 
 <h2
