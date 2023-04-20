@@ -9,4 +9,4 @@ In this codelab, you will create a Dice Roller Android app where users can click
 
 ## Views
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Alt text](https://github.com/jefersonrl/app-dice-roller/tree/main/assets/dice_roller_v4.png "a title")
