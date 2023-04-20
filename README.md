@@ -9,4 +9,4 @@ In this codelab, you will create a Dice Roller Android app where users can click
 
 ## Views
 
-![MarineGEO circle logo](/assets/img/MarineGEO_logo.png "MarineGEO logo")
+![Dice Roller = v4](/assets/img/dice-roller-v4.png "Dice Roller v4")
