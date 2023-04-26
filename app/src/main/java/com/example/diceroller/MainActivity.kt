@@ -3,11 +3,9 @@ package com.example.diceroller
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
+import android.widget.EditText
 import android.widget.ImageView
 import android.widget.TextView
-import android.widget.Toast
-import com.example.diceroller.R.id.luckyNumber
-import org.w3c.dom.Text
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -38,13 +36,12 @@ class MainActivity : AppCompatActivity() {
             6 -> diceImage.setImageResource(R.drawable.dice_6)
         }
 
-        val sortRoll = dice.roll()
-        val sortTextView: TextView = findViewById(R.id.luckyNumber)
+
         val txtResultado: TextView = findViewById(R.id.txtResultado)
+        val edtNumber: EditText = findViewById(R.id.edtNumber)
+        val number: Int = edtNumber.text.toString().toInt()
 
-        sortTextView.text = sortRoll.toString();
-
-        if( diceRoll == sortRoll){
+        if( diceRoll == number){
             txtResultado.setText("You Win!")
         }else{
             txtResultado.setText("You Lose!")
